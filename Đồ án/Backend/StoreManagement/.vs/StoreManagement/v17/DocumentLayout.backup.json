@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Myappp\\MyAppWithFriend\\Backend\\StoreManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D31448D-E5C9-4C52-80A5-778B4E451907}|StoreManagement.Infrastructure\\StoreManagement.Infrastructure.csproj|d:\\myappp\\myappwithfriend\\backend\\storemanagement\\storemanagement.infrastructure\\reponsitory\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D31448D-E5C9-4C52-80A5-778B4E451907}|StoreManagement.Infrastructure\\StoreManagement.Infrastructure.csproj|solutionrelative:storemanagement.infrastructure\\reponsitory\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD68414-BFBB-4F13-852B-8AEF77652C45}|StoreManagement.Core\\StoreManagement.Core.csproj|d:\\myappp\\myappwithfriend\\backend\\storemanagement\\storemanagement.core\\dtos\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD68414-BFBB-4F13-852B-8AEF77652C45}|StoreManagement.Core\\StoreManagement.Core.csproj|solutionrelative:storemanagement.core\\dtos\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD68414-BFBB-4F13-852B-8AEF77652C45}|StoreManagement.Core\\StoreManagement.Core.csproj|d:\\myappp\\myappwithfriend\\backend\\storemanagement\\storemanagement.core\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD68414-BFBB-4F13-852B-8AEF77652C45}|StoreManagement.Core\\StoreManagement.Core.csproj|solutionrelative:storemanagement.core\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D31448D-E5C9-4C52-80A5-778B4E451907}|StoreManagement.Infrastructure\\StoreManagement.Infrastructure.csproj|d:\\myappp\\myappwithfriend\\backend\\storemanagement\\storemanagement.infrastructure\\reponsitory\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D31448D-E5C9-4C52-80A5-778B4E451907}|StoreManagement.Infrastructure\\StoreManagement.Infrastructure.csproj|solutionrelative:storemanagement.infrastructure\\reponsitory\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA88FAA-A4BE-4B64-ACCB-03FC2A0C973D}|StoreManagement.Api\\StoreManagement.Api.csproj|d:\\myappp\\myappwithfriend\\backend\\storemanagement\\storemanagement.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA88FAA-A4BE-4B64-ACCB-03FC2A0C973D}|StoreManagement.Api\\StoreManagement.Api.csproj|solutionrelative:storemanagement.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDetailDto.cs",
+              "DocumentMoniker": "D:\\Myappp\\MyAppWithFriend\\Backend\\StoreManagement\\StoreManagement.Core\\DTOs\\OrderDetailDto.cs",
+              "RelativeDocumentMoniker": "StoreManagement.Core\\DTOs\\OrderDetailDto.cs",
+              "ToolTip": "D:\\Myappp\\MyAppWithFriend\\Backend\\StoreManagement\\StoreManagement.Core\\DTOs\\OrderDetailDto.cs",
+              "RelativeToolTip": "StoreManagement.Core\\DTOs\\OrderDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:30:09.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\Myappp\\MyAppWithFriend\\Backend\\StoreManagement\\StoreManagement.Core\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "StoreManagement.Core\\DTOs\\ProductDto.cs",
+              "ToolTip": "D:\\Myappp\\MyAppWithFriend\\Backend\\StoreManagement\\StoreManagement.Core\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "StoreManagement.Core\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:29:11.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\Myappp\\MyAppWithFriend\\Backend\\StoreManagement\\StoreManagement.Infrastructure\\Reponsitory\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "StoreManagement.Infrastructure\\Reponsitory\\OrderRepository.cs",
+              "ToolTip": "D:\\Myappp\\MyAppWithFriend\\Backend\\StoreManagement\\StoreManagement.Infrastructure\\Reponsitory\\OrderRepository.cs",
+              "RelativeToolTip": "StoreManagement.Infrastructure\\Reponsitory\\OrderRepository.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAawFQAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:28:20.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Myappp\\MyAppWithFriend\\Backend\\StoreManagement\\StoreManagement.Api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "StoreManagement.Api\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Myappp\\MyAppWithFriend\\Backend\\StoreManagement\\StoreManagement.Api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "StoreManagement.Api\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAhwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T09:39:06.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "D:\\Myappp\\MyAppWithFriend\\Backend\\StoreManagement\\StoreManagement.Infrastructure\\Reponsitory\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "StoreManagement.Infrastructure\\Reponsitory\\BaseRepository.cs",
+              "ToolTip": "D:\\Myappp\\MyAppWithFriend\\Backend\\StoreManagement\\StoreManagement.Infrastructure\\Reponsitory\\BaseRepository.cs",
+              "RelativeToolTip": "StoreManagement.Infrastructure\\Reponsitory\\BaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T09:39:06.136Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

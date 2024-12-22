@@ -1,0 +1,71 @@
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\bin\Debug\net8.0\StoreManagement.Infrastructure.deps.json
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\bin\Debug\net8.0\StoreManagement.Infrastructure.runtimeconfig.json
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\bin\Debug\net8.0\StoreManagement.Infrastructure.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\bin\Debug\net8.0\StoreManagement.Infrastructure.pdb
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\bin\Debug\net8.0\StoreManagement.Core.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\bin\Debug\net8.0\StoreManagement.Core.pdb
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.AssemblyInfo.cs
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.sourcelink.json
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreMan.78655C4E.Up2Date
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\refint\StoreManagement.Infrastructure.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.pdb
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.genruntimeconfig.cache
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\ref\StoreManagement.Infrastructure.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Infrastructure\bin\Debug\net8.0\StoreManagement.Infrastructure.deps.json
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Infrastructure\bin\Debug\net8.0\StoreManagement.Infrastructure.runtimeconfig.json
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Infrastructure\bin\Debug\net8.0\StoreManagement.Infrastructure.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Infrastructure\bin\Debug\net8.0\StoreManagement.Infrastructure.pdb
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Infrastructure\bin\Debug\net8.0\StoreManagement.Core.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Infrastructure\bin\Debug\net8.0\StoreManagement.Core.pdb
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.AssemblyInfo.cs
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreMan.78655C4E.Up2Date
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\refint\StoreManagement.Infrastructure.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.pdb
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.genruntimeconfig.cache
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\ref\StoreManagement.Infrastructure.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\bin\Debug\net8.0\StoreManagement.Infrastructure.deps.json
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\bin\Debug\net8.0\StoreManagement.Infrastructure.runtimeconfig.json
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\bin\Debug\net8.0\StoreManagement.Infrastructure.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\bin\Debug\net8.0\StoreManagement.Infrastructure.pdb
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\bin\Debug\net8.0\StoreManagement.Core.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\bin\Debug\net8.0\StoreManagement.Core.pdb
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.csproj.AssemblyReference.cache
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.AssemblyInfoInputs.cache
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.AssemblyInfo.cs
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.csproj.CoreCompileInputs.cache
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.sourcelink.json
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreMan.78655C4E.Up2Date
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\refint\StoreManagement.Infrastructure.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.pdb
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.genruntimeconfig.cache
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\ref\StoreManagement.Infrastructure.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\bin\Debug\net8.0\StoreManagement.Infrastructure.deps.json
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\bin\Debug\net8.0\StoreManagement.Infrastructure.runtimeconfig.json
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\bin\Debug\net8.0\StoreManagement.Infrastructure.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\bin\Debug\net8.0\StoreManagement.Infrastructure.pdb
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\bin\Debug\net8.0\StoreManagement.Core.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\bin\Debug\net8.0\StoreManagement.Core.pdb
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.AssemblyInfo.cs
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.sourcelink.json
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreMan.78655C4E.Up2Date
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\refint\StoreManagement.Infrastructure.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.pdb
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\StoreManagement.Infrastructure.genruntimeconfig.cache
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Infrastructure\obj\Debug\net8.0\ref\StoreManagement.Infrastructure.dll

@@ -1,0 +1,595 @@
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\appsettings.Development.json
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\appsettings.json
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Api.exe
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Api.deps.json
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Api.runtimeconfig.json
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Api.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Api.pdb
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Dapper.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Drapper.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Drapper.Validation.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Google.Protobuf.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Humanizer.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\MySql.Data.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\MySqlConnector.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.CodeDom.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ZstdSharp.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win7-x64\native\sni.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win7-x86\native\sni.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Core.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Infrastructure.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Infrastructure.pdb
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Core.pdb
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.csproj.AssemblyReference.cache
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.AssemblyInfoInputs.cache
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.AssemblyInfo.cs
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.csproj.CoreCompileInputs.cache
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.sourcelink.json
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.StoreManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.StoreManagement.Api.props
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StoreManagement.Api.props
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StoreManagement.Api.props
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\scopedcss\bundle\StoreManagement.Api.styles.css
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreMan.863B7CF6.Up2Date
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\refint\StoreManagement.Api.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.pdb
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.genruntimeconfig.cache
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\ref\StoreManagement.Api.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\appsettings.Development.json
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\appsettings.json
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Api.exe
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Api.deps.json
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Api.runtimeconfig.json
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Api.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Api.pdb
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Dapper.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Drapper.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Drapper.Validation.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Humanizer.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\MySql.Data.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\MySqlConnector.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.CodeDom.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ZstdSharp.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win7-x64\native\sni.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win7-x86\native\sni.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Core.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Infrastructure.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Infrastructure.pdb
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Core.pdb
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.csproj.AssemblyReference.cache
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.AssemblyInfoInputs.cache
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.AssemblyInfo.cs
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.csproj.CoreCompileInputs.cache
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.StoreManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.StoreManagement.Api.props
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StoreManagement.Api.props
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StoreManagement.Api.props
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\scopedcss\bundle\StoreManagement.Api.styles.css
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreMan.863B7CF6.Up2Date
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\refint\StoreManagement.Api.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.pdb
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.genruntimeconfig.cache
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\ref\StoreManagement.Api.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Text.Json.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\appsettings.Development.json
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\appsettings.json
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Api.exe
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Api.deps.json
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Api.runtimeconfig.json
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Api.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Api.pdb
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Dapper.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Drapper.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Drapper.Validation.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Google.Protobuf.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Humanizer.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\MySql.Data.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\MySqlConnector.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.CodeDom.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Text.Json.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ZstdSharp.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win7-x64\native\sni.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win7-x86\native\sni.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Core.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Infrastructure.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Infrastructure.pdb
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Core.pdb
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.csproj.AssemblyReference.cache
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.AssemblyInfoInputs.cache
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.AssemblyInfo.cs
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.csproj.CoreCompileInputs.cache
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.sourcelink.json
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\staticwebassets.build.json
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\staticwebassets.development.json
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.StoreManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.StoreManagement.Api.props
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StoreManagement.Api.props
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StoreManagement.Api.props
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\staticwebassets.pack.json
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\scopedcss\bundle\StoreManagement.Api.styles.css
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreMan.863B7CF6.Up2Date
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\refint\StoreManagement.Api.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.pdb
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.genruntimeconfig.cache
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\ref\StoreManagement.Api.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\appsettings.Development.json
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\appsettings.json
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Api.exe
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Api.deps.json
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Api.runtimeconfig.json
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Api.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Api.pdb
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Dapper.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Drapper.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Drapper.Validation.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Humanizer.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\MySql.Data.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\MySqlConnector.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.CodeDom.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Text.Json.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ZstdSharp.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win7-x64\native\sni.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win7-x86\native\sni.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Core.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Infrastructure.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Infrastructure.pdb
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Core.pdb
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.csproj.AssemblyReference.cache
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.AssemblyInfoInputs.cache
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.AssemblyInfo.cs
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.csproj.CoreCompileInputs.cache
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.sourcelink.json
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.StoreManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.StoreManagement.Api.props
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StoreManagement.Api.props
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StoreManagement.Api.props
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\scopedcss\bundle\StoreManagement.Api.styles.css
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreMan.863B7CF6.Up2Date
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\refint\StoreManagement.Api.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.pdb
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\StoreManagement.Api.genruntimeconfig.cache
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Api\obj\Debug\net8.0\ref\StoreManagement.Api.dll

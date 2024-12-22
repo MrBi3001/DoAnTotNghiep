@@ -1,0 +1,51 @@
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\bin\Debug\net8.0\StoreManagement.Core.deps.json
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\bin\Debug\net8.0\StoreManagement.Core.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\bin\Debug\net8.0\StoreManagement.Core.pdb
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.csproj.AssemblyReference.cache
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.AssemblyInfoInputs.cache
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.AssemblyInfo.cs
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.csproj.CoreCompileInputs.cache
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.sourcelink.json
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\refint\StoreManagement.Core.dll
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.pdb
+D:\reactTutorio\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\ref\StoreManagement.Core.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Core\bin\Debug\net8.0\StoreManagement.Core.deps.json
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Core\bin\Debug\net8.0\StoreManagement.Core.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Core\bin\Debug\net8.0\StoreManagement.Core.pdb
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.csproj.AssemblyReference.cache
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.AssemblyInfoInputs.cache
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.AssemblyInfo.cs
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.csproj.CoreCompileInputs.cache
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\refint\StoreManagement.Core.dll
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.pdb
+D:\Đồ án\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\ref\StoreManagement.Core.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\bin\Debug\net8.0\StoreManagement.Core.deps.json
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\bin\Debug\net8.0\StoreManagement.Core.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\bin\Debug\net8.0\StoreManagement.Core.pdb
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.csproj.AssemblyReference.cache
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.AssemblyInfoInputs.cache
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.AssemblyInfo.cs
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.csproj.CoreCompileInputs.cache
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.sourcelink.json
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\refint\StoreManagement.Core.dll
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.pdb
+E:\training\do_an_Binh\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\ref\StoreManagement.Core.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\bin\Debug\net8.0\StoreManagement.Core.deps.json
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\bin\Debug\net8.0\StoreManagement.Core.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\bin\Debug\net8.0\StoreManagement.Core.pdb
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.csproj.AssemblyReference.cache
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.AssemblyInfoInputs.cache
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.AssemblyInfo.cs
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.csproj.CoreCompileInputs.cache
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.sourcelink.json
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\refint\StoreManagement.Core.dll
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.pdb
+D:\Myappp\MyAppWithFriend\Backend\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\ref\StoreManagement.Core.dll
